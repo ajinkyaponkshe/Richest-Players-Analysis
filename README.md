@@ -10,4 +10,4 @@ Following questions were tries to answered:
 6. Running Bar Graph for Highest Earners from 1990 to 2019
 
 # Screenshot
-https://github.com/ajinkyaponkshe/Richest-Players-Analysis/issues/1#issue-663417246
+![image](https://user-images.githubusercontent.com/51440134/88125930-f89fa880-cb95-11ea-8b00-a6085bbd91f6.png)
