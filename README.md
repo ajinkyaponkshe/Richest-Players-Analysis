@@ -8,3 +8,6 @@ Following questions were tries to answered:
 4. How much the Top Paid Athlete for Each Year, earn?
 5. Which Sport Dominates the Earnings
 6. Running Bar Graph for Highest Earners from 1990 to 2019
+
+# Screenshot
+https://github.com/ajinkyaponkshe/Richest-Players-Analysis/issues/1#issue-663417246
