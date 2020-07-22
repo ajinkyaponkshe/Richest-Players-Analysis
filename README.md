@@ -7,4 +7,4 @@ Following questions were tries to answered:
 3. Which  country produces the maximum earners in Sports
 4. How much the Top Paid Athlete for Each Year, earn?
 5. Which Sport Dominates the Earnings
-6.Running Bar Graph for Highest Earners from 1990 to 2019
+6. Running Bar Graph for Highest Earners from 1990 to 2019
